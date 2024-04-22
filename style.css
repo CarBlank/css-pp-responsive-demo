@@ -4,10 +4,6 @@
     box-sizing: border-box;
     text-decoration: none;
 }
-
-* {
-    box-sizing: border-box;
-  }
   
   .row::after {
     content: "";
