@@ -57,15 +57,16 @@
     font-size: 14px;
   }
 
-/* 
+
   .row {
     display: flex;
+    justify-content: center;
   }
-
+/* 
   .row > * {
     margin: auto;
-  }
- */
+  } */
+
 
   section {
     background-color: #25d161;
